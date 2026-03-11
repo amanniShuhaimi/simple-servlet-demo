@@ -7,7 +7,7 @@ pipeline {
 
     environment {
         DEPLOY_PATH = 'D:\\tomcat10\\webapps'
-        WAR_NAME = 'simple-servlet-demo.war'
+        WAR_NAME = 'simple-servlet-demo-1.0.0.war'
     }
 
     stages {
